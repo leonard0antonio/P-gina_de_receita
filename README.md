@@ -23,12 +23,16 @@ Projeto pessoal para praticar frontend básico:
 
 ---
 
-## 📷 Desmontração
+-----
+
+## 📷 Demonstração
+
 
 ![Demo da aplicação](demo01.gif)
 
+-----
 
----
+
 ## 🛠️ Tecnologias usadas
 
 - **HTML** — para estruturar o conteúdo da página  
